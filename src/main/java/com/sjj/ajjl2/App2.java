@@ -36,7 +36,6 @@ public class App2 {
 		key.initHotkey(ms);
 
 		// 下面模拟长时间执行的任务
-
 		while (true) {
 
 			try {
