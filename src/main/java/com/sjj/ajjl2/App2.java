@@ -37,11 +37,8 @@ public class App2 {
 
 		// 下面模拟长时间执行的任务
 		while (true) {
-
 			try {
-
 				Thread.sleep(10000);
-
 			} catch (Exception ex) {
 
 				break;

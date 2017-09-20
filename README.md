@@ -1,1 +1,2 @@
 # AJJL
+利用jintellitype实现按键监控demo，并自动按键功能
